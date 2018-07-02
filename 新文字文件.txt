@@ -1,0 +1,14 @@
+cd /d 進入D曹
+mkdir 檔案名稱 創建資料夾
+cd /d/檔案名稱 
+git init
+git congig
+git config --global user.email "email"
+git config --global user.name "username"
+vi .gitconfig
+git status
+git add .檔案名稱
+git status
+git commit -m ""
+git status
+git remote add origin https://github.com/fongchi/text2.git
